@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name : Pradeep E
-## Roll no : 212223230149
+## Name : VESLIN ANISH A
+## Roll no : 212223240175
 ## Date of experiment : 10.03.25
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
